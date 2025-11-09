@@ -44,7 +44,7 @@ src/<br>
 │   │<br>
 │   |<br>
 │   └── index.js<br>
-│<br>
+│
 ├── package.json<br>
 └── README.md<br>
 <br>
