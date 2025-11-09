@@ -29,7 +29,7 @@
 ---
 
 ## Folder Structure
-`
+
 src/
 │   ├── schema/
 │   │   ├── typeDefs.js
@@ -47,7 +47,7 @@ src/
 │
 ├── package.json
 └── README.md
-`
+
 ** Install dependencies: npm i
 ** Start the server: npm run dev
 ** Server will run at: http://localhost:5000/graphql
