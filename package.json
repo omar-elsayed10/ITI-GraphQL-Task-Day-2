@@ -1,0 +1,18 @@
+{
+  "name": "task-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "bcryptjs": "^3.0.3",
+    "express": "^5.1.0",
+    "graphql": "^16.12.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
