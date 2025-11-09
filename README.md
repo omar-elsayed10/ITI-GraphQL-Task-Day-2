@@ -48,7 +48,7 @@ src/
 ├── package.json
 └── README.md
 
-**Install dependencies: npm i
-**Start the server: npm run dev
-**Server will run at: http://localhost:5000/graphql
+**Install dependencies: npm i**
+**Start the server: npm run dev**
+**Server will run at: http://localhost:5000/graphql**
 
