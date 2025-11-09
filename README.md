@@ -30,25 +30,25 @@
 
 ## Folder Structure
 
-src/
-│   ├── schema/
-│   │   ├── typeDefs.js
-│   │   └── resolvers.js
-│   │
-│   ├── data/
-│   │   ├── db.js
-│   │   └── helpers.js
-│   │
-│   ├── auth/
-│   │   └── auth.js
-│   │
-│   |
-│   └── index.js
-│
-├── package.json
-└── README.md
-
-**Install dependencies: npm i**
-**Start the server: npm run dev**
-**Server will run at: http://localhost:5000/graphql**
+src/<br>
+│   ├── schema/<br>
+│   │   ├── typeDefs.js<br>
+│   │   └── resolvers.js<br>
+│   │<br>
+│   ├── data/<br>
+│   │   ├── db.js<br>
+│   │   └── helpers.js<br>
+│   │<br>
+│   ├── auth/<br>
+│   │   └── auth.js<br>
+│   │<br>
+│   |<br>
+│   └── index.js<br>
+│<br>
+├── package.json<br>
+└── README.md<br>
+<br>
+**Install dependencies: npm i** <br>
+**Start the server: npm run dev** <br>
+**Server will run at: http://localhost:5000/graphql** <br>
 
